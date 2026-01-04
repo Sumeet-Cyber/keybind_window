@@ -1,4 +1,4 @@
-#!/home/sumeetj/space/code/projects/alternate_screen_buffer_window/venv/bin/python
+#!./venv/bin/python
 
 import curses
 from prettytable import PrettyTable

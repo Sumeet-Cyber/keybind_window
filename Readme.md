@@ -4,6 +4,9 @@ A mini project to help me remember various keybinds in my Hyprland Setup.
 It uses the special additional window provided by most modern terminal emulators, call 'Alternate Screen Buffer'. If you have ever used Vim, NeoVim or opened a man page, You know what I am talking about. The 'Second screen' which magically appears for our purpose and escapes out when the purpose is finished. The text which was present before, reappears again afterwards.
 I have used a new keybind to open a kitty window and execute the program inside it. This Way I only have to remember this One single Keybind.
 
+### Screenshot of running script -
+![Sample screenshot taken](./screenshot/keybinds.png)
+
 ## Present Structure -
 - The Script works as it is expected to.
 - If the window width is sufficient, then tables arrange themselves side-by-side.
